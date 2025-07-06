@@ -14,19 +14,7 @@
               <a class="block py-3 px-6 border-b-2 border-transparent" href="/">Home</a>
             </li>
             <li class="relative border-l border-gray-800 hover:bg-gray-900">
-              <a class="block py-3 px-6 border-b-2 border-transparent" href="#">Sport</a>
-            </li>
-            <li class="relative border-l border-gray-800 hover:bg-gray-900">
-              <a class="block py-3 px-6 border-b-2 border-transparent" href="#">Travel</a>
-            </li>
-            <li class="relative border-l border-gray-800 hover:bg-gray-900">
-              <a class="block py-3 px-6 border-b-2 border-transparent" href="#">Techno</a>
-            </li>
-            <li class="relative border-l border-gray-800 hover:bg-gray-900">
-              <a class="block py-3 px-6 border-b-2 border-transparent" href="#">Worklife</a>
-            </li>
-            <li class="relative border-l border-gray-800 hover:bg-gray-900">
-              <a class="block py-3 px-6 border-b-2 border-transparent" href="#">Future</a>
+              <a class="block py-3 px-6 border-b-2 border-transparent" href="/search">Search</a>
             </li>
           </ul>
 
